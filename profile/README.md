@@ -21,6 +21,10 @@ With increasing climate-related risks such as **floods and droughts**, BOSC deve
 ### 3. Health Informatics
 As part of our commitment to **public health and digital equity**, BOSC supports the **Health Informatics Initiative**, focusing on **accessible, data-driven health solutions** that strengthen health systems and empower communities.
 
+### 4. BU OS (Bugema University Operating System)
+Developing an open-source operating system tailored for educational and community use, promoting accessibility, affordability, and local innovation.  
+Our goal: **empower users with a customizable, secure, and efficient platform for learning and development**.
+
 ---
 
 ## ✅ Our Approach
@@ -47,4 +51,4 @@ As part of our commitment to **public health and digital equity**, BOSC supports
 ---
 
 **Together, let’s build technology for the people, by the people.**  
-`#OpenSource` `#ICT4Agriculture` `#DisasterTech` `#HealthInformatics` `#BugemaInnovation` `#BOSC`
+`#OpenSource` `#ICT4Agriculture` `#DisasterTech` `#HealthInformatics` `#BugemaInnovation` `#BUOS` `#BOSC`
