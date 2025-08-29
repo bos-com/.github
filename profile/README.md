@@ -1,10 +1,10 @@
 # Bugema Open Source Community (BOSC)
 
-Welcome to **Bugema Open Source Community (BOSC)** – a vibrant and collaborative innovation hub initiated by **Bugema University**, founded by **Muwanga Erasto Kosea** with support from Open Elements, and dedicated to solving problems through **Code**.
+Welcome to **Bugema Open Source Community (BOSC)** – a vibrant and collaborative innovation hub initiated by **Bugema University**, founded by **Muwanga Erasto Kosea** with support from Open Elements and Support Care Uganda. We are dedicated to solving problems through **Code**.
 
 
 ## 🌍 Who We Are
-BOSC brings together **students, researchers, developers, and local communities** to collaborate on impactful open-source projects that drive **sustainable development**, especially in underserved and rural areas.  
+BOSC brings together **students, researchers, developers, and local communities** to collaborate on impactful open-source projects that drive **sustainable development**, especially in underserved and rural areas. 
 We believe in the power of **open knowledge, local innovation, and community empowerment**.
 
 
