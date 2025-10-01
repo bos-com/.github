@@ -17,7 +17,7 @@ We believe in the power of **open knowledge, local innovation, and community emp
 
 
 ## 📬 Contact Us
-📧 Email: **kmuwanga@bugemauniv.ac.ug**  
+📧 Email: **kmuwanga@bugemauniv.ac.ug**  (for urgent issues) but the community email is gonna be updated soon 
 🌐 Website: *Coming Soon*  
 🐙 GitHub: [https://github.com/bos-com](https://github.com/bos-com)
 
